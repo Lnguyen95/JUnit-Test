@@ -1,10 +1,10 @@
 # JUnit-Test
-Author: Luc Nguyen
-Class: CEN 3024C
-Profesor: Gossai
-
 JUnit-Testing Class & testAnalyzer Class
 
+	Author: Luc Nguyen
+	Class: CEN 3024C
+	Profesor: Gossai
+	
     package testing;
     import java.io.BufferedReader;
     import java.io.FileReader;
