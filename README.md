@@ -93,8 +93,5 @@ JUnit-Testing Class & testAnalyzer Class
 	@Test
 	void test() {
 		JUnitTesting test = new JUnitTesting();
+		}
 	}
-
-}
-
-    
