@@ -25,7 +25,7 @@ JUnit-Testing Class & testAnalyzer Class
 
 		try {
 			// created BufferedReader
-			reader = new BufferedReader(new FileReader("C:\\Users\\Student\\Desktop\\Shakespear.txt."));
+			reader = new BufferedReader(new FileReader("C:\\Users\\Desktop\\Shakespear.txt."));
 
 			// Reading the first line into currentLine
 			String currentLine = reader.readLine();
