@@ -3,8 +3,7 @@ Author: Luc Nguyen
 Class: CEN 3024C
 Profesor: Gossai
 
-JUnit-Testing Class
-testAnalyzer Class
+JUnit-Testing Class & testAnalyzer Class
 
     package testing;
     import java.io.BufferedReader;
